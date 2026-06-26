@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+abr_log.txt
+
+# Course/private submission files
+Assignment.pdf
+Assignment_1_*/
+Report_*225010280*
+studentcode_225010280.py
+
+# Papers / copyrighted PDFs
+papers/
+*.pdf
+
+# But keep project report PDF if later renamed
+!report.pdf
+
+# Environment
+.venv/
+venv/
+env/
+
+# Temporary files
+*.tmp
+*.bak
